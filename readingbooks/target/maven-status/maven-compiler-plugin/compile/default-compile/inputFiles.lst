@@ -1,0 +1,17 @@
+F:\new proj\readingbooks\src\main\java\com\readingbooks\springboot\readingbooks\controller\CustomerController.java
+F:\new proj\readingbooks\src\main\java\com\readingbooks\springboot\readingbooks\repository\OrderRepository.java
+F:\new proj\readingbooks\src\main\java\com\readingbooks\springboot\readingbooks\repository\CustomerRepository.java
+F:\new proj\readingbooks\src\main\java\com\readingbooks\springboot\readingbooks\service\BooksService.java
+F:\new proj\readingbooks\src\main\java\com\readingbooks\springboot\readingbooks\entity\Books.java
+F:\new proj\readingbooks\src\main\java\com\readingbooks\springboot\readingbooks\ReadingbooksApplication.java
+F:\new proj\readingbooks\src\main\java\com\readingbooks\springboot\readingbooks\serviceImpl\CustomerServiceImpl.java
+F:\new proj\readingbooks\src\main\java\com\readingbooks\springboot\readingbooks\entity\Customer.java
+F:\new proj\readingbooks\src\main\java\com\readingbooks\springboot\readingbooks\service\OrderService.java
+F:\new proj\readingbooks\src\main\java\com\readingbooks\springboot\readingbooks\entity\Order.java
+F:\new proj\readingbooks\src\main\java\com\readingbooks\springboot\readingbooks\repository\jpaRepository.java
+F:\new proj\readingbooks\src\main\java\com\readingbooks\springboot\readingbooks\controller\OrderController.java
+F:\new proj\readingbooks\src\main\java\com\readingbooks\springboot\readingbooks\serviceImpl\BooksServiceImpl.java
+F:\new proj\readingbooks\src\main\java\com\readingbooks\springboot\readingbooks\service\CustomerService.java
+F:\new proj\readingbooks\src\main\java\com\readingbooks\springboot\readingbooks\repository\BooksRepository.java
+F:\new proj\readingbooks\src\main\java\com\readingbooks\springboot\readingbooks\controller\BooksController.java
+F:\new proj\readingbooks\src\main\java\com\readingbooks\springboot\readingbooks\serviceImpl\OrderServiceImpl.java
